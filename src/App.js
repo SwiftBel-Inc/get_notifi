@@ -41,6 +41,7 @@ function App() {
     <Footer/>
    <FooterBottom/>
    </>:''}
+
    </BrowserRouter>
    </Suspense>
     </div>
